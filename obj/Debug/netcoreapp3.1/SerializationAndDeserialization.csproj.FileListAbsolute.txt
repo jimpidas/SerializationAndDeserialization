@@ -1,0 +1,15 @@
+C:\Users\Dell\DotNetProjects\SerializationAndDeserialization\bin\Debug\netcoreapp3.1\SerializationAndDeserialization.exe
+C:\Users\Dell\DotNetProjects\SerializationAndDeserialization\bin\Debug\netcoreapp3.1\SerializationAndDeserialization.deps.json
+C:\Users\Dell\DotNetProjects\SerializationAndDeserialization\bin\Debug\netcoreapp3.1\SerializationAndDeserialization.runtimeconfig.json
+C:\Users\Dell\DotNetProjects\SerializationAndDeserialization\bin\Debug\netcoreapp3.1\SerializationAndDeserialization.runtimeconfig.dev.json
+C:\Users\Dell\DotNetProjects\SerializationAndDeserialization\bin\Debug\netcoreapp3.1\SerializationAndDeserialization.dll
+C:\Users\Dell\DotNetProjects\SerializationAndDeserialization\bin\Debug\netcoreapp3.1\SerializationAndDeserialization.pdb
+C:\Users\Dell\DotNetProjects\SerializationAndDeserialization\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+C:\Users\Dell\DotNetProjects\SerializationAndDeserialization\obj\Debug\netcoreapp3.1\SerializationAndDeserialization.csprojAssemblyReference.cache
+C:\Users\Dell\DotNetProjects\SerializationAndDeserialization\obj\Debug\netcoreapp3.1\SerializationAndDeserialization.AssemblyInfoInputs.cache
+C:\Users\Dell\DotNetProjects\SerializationAndDeserialization\obj\Debug\netcoreapp3.1\SerializationAndDeserialization.AssemblyInfo.cs
+C:\Users\Dell\DotNetProjects\SerializationAndDeserialization\obj\Debug\netcoreapp3.1\SerializationAndDeserialization.csproj.CoreCompileInputs.cache
+C:\Users\Dell\DotNetProjects\SerializationAndDeserialization\obj\Debug\netcoreapp3.1\SerializationAndDeserialization.csproj.CopyComplete
+C:\Users\Dell\DotNetProjects\SerializationAndDeserialization\obj\Debug\netcoreapp3.1\SerializationAndDeserialization.dll
+C:\Users\Dell\DotNetProjects\SerializationAndDeserialization\obj\Debug\netcoreapp3.1\SerializationAndDeserialization.pdb
+C:\Users\Dell\DotNetProjects\SerializationAndDeserialization\obj\Debug\netcoreapp3.1\SerializationAndDeserialization.genruntimeconfig.cache
